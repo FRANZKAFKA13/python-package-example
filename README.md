@@ -1,4 +1,4 @@
-# Example Python Project
+# Example Python Package
 This repository contains an example python package that can be installed with pip.
 
 
